@@ -1,0 +1,48 @@
+may 23, 2020 7:19:46 PM pruebaredes.Utils llenarLog
+INFORMACIÓN: Peticion discover
+may 23, 2020 7:19:46 PM pruebaredes.Utils llenarLog
+INFORMACIÓN: 40:b0:76:b6:90:77 __ 0.0.0.0 __ 07:19:46
+may 23, 2020 7:19:46 PM pruebaredes.Utils llenarLog
+INFORMACIÓN: envio offer
+may 23, 2020 7:19:46 PM pruebaredes.Utils llenarLog
+INFORMACIÓN: 14:2D-27-B9-60-51 ___ 192.168.0.30 __ 07:19:46
+may 23, 2020 7:19:46 PM pruebaredes.Utils llenarLog
+INFORMACIÓN: peticion request
+may 23, 2020 7:19:46 PM pruebaredes.Utils llenarLog
+INFORMACIÓN: 40:b0:76:b6:90:77 __ 0.0.0.0 __ 07:19:46
+may 23, 2020 7:19:46 PM pruebaredes.Utils llenarLog
+INFORMACIÓN: Envio ACK
+may 23, 2020 7:19:46 PM pruebaredes.Utils llenarLog
+INFORMACIÓN: 14:2D-27-B9-60-51 __ 192.168.0.30 __ 07:19:46 ___ 07:20:06
+may 23, 2020 7:20:03 PM pruebaredes.Utils llenarLog
+INFORMACIÓN: Peticion discover
+may 23, 2020 7:20:03 PM pruebaredes.Utils llenarLog
+INFORMACIÓN: 88:d7:f6:92:ff:9f __ 0.0.0.0 __ 07:20:03
+may 23, 2020 7:20:03 PM pruebaredes.Utils llenarLog
+INFORMACIÓN: envio offer
+may 23, 2020 7:20:03 PM pruebaredes.Utils llenarLog
+INFORMACIÓN: 14:2D-27-B9-60-51 ___ 192.168.0.30 __ 07:20:03
+may 23, 2020 7:20:03 PM pruebaredes.Utils llenarLog
+INFORMACIÓN: peticion request
+may 23, 2020 7:20:03 PM pruebaredes.Utils llenarLog
+INFORMACIÓN: 88:d7:f6:92:ff:9f __ 0.0.0.0 __ 07:20:03
+may 23, 2020 7:20:03 PM pruebaredes.Utils llenarLog
+INFORMACIÓN: Envio ACK
+may 23, 2020 7:20:03 PM pruebaredes.Utils llenarLog
+INFORMACIÓN: 14:2D-27-B9-60-51 __ 192.168.0.30 __ 07:20:03 ___ 07:20:23
+may 23, 2020 7:20:16 PM pruebaredes.Utils llenarLog
+INFORMACIÓN: peticion request
+may 23, 2020 7:20:16 PM pruebaredes.Utils llenarLog
+INFORMACIÓN: 40:b0:76:b6:90:77 __ 192.168.0.15 __ 07:20:16
+may 23, 2020 7:20:16 PM pruebaredes.Utils llenarLog
+INFORMACIÓN: envio renovacion
+may 23, 2020 7:20:16 PM pruebaredes.Utils llenarLog
+INFORMACIÓN: 14:2D-27-B9-60-51 __ 192.168.0.30 __ 07:19:46 ___ 07:20:26
+may 23, 2020 7:20:33 PM pruebaredes.Utils llenarLog
+INFORMACIÓN: peticion request
+may 23, 2020 7:20:33 PM pruebaredes.Utils llenarLog
+INFORMACIÓN: 88:d7:f6:92:ff:9f __ 192.168.0.26 __ 07:20:33
+may 23, 2020 7:20:33 PM pruebaredes.Utils llenarLog
+INFORMACIÓN: envio renovacion
+may 23, 2020 7:20:33 PM pruebaredes.Utils llenarLog
+INFORMACIÓN: 14:2D-27-B9-60-51 __ 192.168.0.30 __ 07:20:03 ___ 07:20:43
